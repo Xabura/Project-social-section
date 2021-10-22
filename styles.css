@@ -27,7 +27,7 @@ body{
         background-position: left top, right bottom;
     }
 }
-@media (min-width: 860px) {
+@media (min-width: 860px) and (min-height: 750px) {
     html{
         height: 100%;
         align-items: center;
